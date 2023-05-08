@@ -1,0 +1,14 @@
+C:\Projects\BackEnd\EmployeeApp\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Projects\BackEnd\EmployeeApp\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Projects\BackEnd\EmployeeApp\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Projects\BackEnd\EmployeeApp\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\BackEnd\EmployeeApp\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\BackEnd\EmployeeApp\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\BackEnd\EmployeeApp\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Projects\BackEnd\EmployeeApp\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\BackEnd\EmployeeApp\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Projects\BackEnd\EmployeeApp\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Projects\BackEnd\EmployeeApp\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Projects\BackEnd\EmployeeApp\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Projects\BackEnd\EmployeeApp\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+C:\Projects\BackEnd\EmployeeApp\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+C:\Projects\BackEnd\EmployeeApp\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Projects\BackEnd\EmployeeApp\Domain\bin\Debug\net7.0\Domain.dll
+C:\Projects\BackEnd\EmployeeApp\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Projects\BackEnd\EmployeeApp\Domain\bin\Debug\net7.0\Infrastructure.dll
+C:\Projects\BackEnd\EmployeeApp\Domain\bin\Debug\net7.0\Infrastructure.pdb
+C:\Projects\BackEnd\EmployeeApp\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Projects\BackEnd\EmployeeApp\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\BackEnd\EmployeeApp\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Projects\BackEnd\EmployeeApp\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Projects\BackEnd\EmployeeApp\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Projects\BackEnd\EmployeeApp\Domain\obj\Debug\net7.0\Domain.csproj.CopyComplete
+C:\Projects\BackEnd\EmployeeApp\Domain\obj\Debug\net7.0\Domain.dll
+C:\Projects\BackEnd\EmployeeApp\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Projects\BackEnd\EmployeeApp\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Projects\BackEnd\EmployeeApp\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Projects\BackEnd\EmployeeApp\Domain\bin\Debug\net7.0\Domain.runtimeconfig.json
+C:\Projects\BackEnd\EmployeeApp\Domain\obj\Debug\net7.0\Domain.genruntimeconfig.cache
